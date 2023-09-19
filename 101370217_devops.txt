@@ -1,0 +1,9 @@
+I'm excited to share my experience learning about DevOps in the COMP 3104 course. This journey has introduced me to some amazing ideas and ways of working that are changing how I think about computer stuff.
+
+First, let's talk about DevOps. It's like a team sport between computer developers and the people who manage computer systems. They work together to make everything run smoothly.
+
+In COMP 3104, we're diving deep into DevOps basics. It's pretty cool to see how it brings different tech people together, like developers and computer managers, to make things work better. One big goal is to make computers do more of the boring stuff so that we can focus on fun and important things. This helps us work faster and with fewer mistakes.
+
+We're also learning about tools that help test and release software. These tools make sure that the software we create is super good and that it gets to people without any problems.
+
+So, in short, my journey in COMP 3104 is all about teamwork, making computers do more work, and using great tools to make computer things better. It's an exciting adventure, and I'm looking forward to what comes next!
