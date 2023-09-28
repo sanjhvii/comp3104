@@ -5,13 +5,17 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
-    
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sanjhvii/comp3104.git"
   },
-  "keywords": ["devops", "nodejs", "express","web"],
+  "keywords": [
+    "devops",
+    "nodejs",
+    "express",
+    "web"
+  ],
   "author": "Sanjhvi Dogra",
   "license": "ISC",
   "bugs": {
