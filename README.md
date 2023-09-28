@@ -1,3 +1,3 @@
-#### COMP3104 – Developer Operations
+#### Devops Developer Operations
 
 -Sanjhvi Dogra

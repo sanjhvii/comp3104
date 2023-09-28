@@ -1,0 +1,21 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "-Sanjhvi Dogra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjhvii/comp3104.git"
+  },
+  "keywords": ["devops", "nodejs", "express","web"],
+  "author": "Sanjhvi Dogra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjhvii/comp3104.git"
+  },
+  "homepage": "https://github.com/sanjhvii/comp3104.git"
+}
